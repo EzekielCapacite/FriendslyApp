@@ -1,11 +1,11 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# Friendsly
+Friendsly Mobile App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Like
+* Message other people
+* Comment post
+* Search other people
 
 # Course Overview
 * Basic React Native Components
