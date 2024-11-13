@@ -2,10 +2,10 @@
 Friendsly Mobile App.
 
 # Features
-* Like
+* Likes
 * Message other people
 * Comment post
-* Search other people
+* Friends and Connections
 
 # Course Overview
 * Basic React Native Components
